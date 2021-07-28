@@ -1,0 +1,5 @@
+name: MobDropsAntiBurn
+version: ${project.version}
+main: dev.lightdream.mobdropsantiburn.Main
+authors: [ L1ghtDream ]
+website: https://lightdream.tk
